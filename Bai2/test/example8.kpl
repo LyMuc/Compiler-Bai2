@@ -1,0 +1,4 @@
+(* Test case de thu them yeu cau string va dau chia lay phan du*)
+VAR s : STRING;
+s := "Hello KPL";
+a := 10 % 3;

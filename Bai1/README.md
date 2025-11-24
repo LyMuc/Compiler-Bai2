@@ -1,6 +1,8 @@
-Copy các câu lệnh này để test bai 1
+Copy các câu lệnh này để test bai 1.
 
-#! /bin/bash
+Cac test duoc download tu file zip test(2), co ve bi loi example 5 do KPL va result khong khop
+
+make
 
 ./scanner ../test/example1.kpl | diff ../test/result1.txt -
 

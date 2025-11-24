@@ -1,0 +1,5 @@
+// Test comment theo kieu C++
+// va test them kieu bytes va ham mu
+VAR b : BYTES;
+x := 2 ** 10;
+y := 5 * 3;

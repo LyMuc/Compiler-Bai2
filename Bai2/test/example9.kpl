@@ -1,0 +1,5 @@
+//Vi du de test comment theo kieu C++
+VAR x : INTEGER; // Day la bien x
+x := 10 / 2;     // Phep chia va comment o cuoi
+// Day la comment ca dong
+// x := 5; Dong nay khong duoc thuc thi
